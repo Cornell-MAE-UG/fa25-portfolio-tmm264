@@ -6,7 +6,7 @@ title: <Your Name>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profilePic.png" | relative_url }}){: class="profile-image"}
 
  
 My name is Tadg Manna and I am a senior mechanical engineering student.
