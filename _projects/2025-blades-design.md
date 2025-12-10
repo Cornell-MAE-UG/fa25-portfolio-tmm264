@@ -2,7 +2,7 @@
 layout: project
 title: MAE 4272 Blades Design
 description: Design and Test Project
-technologies: [Autodesk Fusion]
+technologies: [Solidworks, MATLAB]
 image: /assets/images/blades.png
 ---
 
