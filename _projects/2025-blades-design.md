@@ -3,7 +3,7 @@ layout: project
 title: MAE 4272 Blades Design
 description: Design and Test Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/blades.png
 ---
 
 For a class, we were tasked with designing blades for a wind turbine that maximized the power generation from a given range of windspeeds.  Our blades had to operate within a set range of wind speeds while generating power and without succumbing to brittle failure.  Furthermore, our turbine was to have a rated RPM at which it generated maximum power.
